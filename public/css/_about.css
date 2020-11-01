@@ -1,0 +1,29 @@
+.abouttxt {
+        text-align: center;
+        align-items: center;
+        padding: 20px;
+        background: rgba(255,255,255,.8);
+        border-radius: 10px;
+        margin: 40px auto;
+}
+
+.prodtitle h2{
+    font-size: 36px;
+    margin-top: var(--space-medium);
+    color: var(--color-lavender);
+}
+
+@media screen and (max-width: 500px) {
+ .abtext h2 {
+font-size: 14px;
+font-weight: 200;
+}
+}
+
+
+.abouttext h2 {
+font-size: 30px;
+font-weight: 500;
+font-style: italic;
+align-content: center;
+}

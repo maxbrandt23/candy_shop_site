@@ -138,6 +138,7 @@ nav a {
     float: none;
     display: block;
     text-align: left;
+    font-size: smaller;
   }
 
   .header-right {
